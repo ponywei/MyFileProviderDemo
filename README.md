@@ -1,0 +1,2 @@
+# MyFileProviderDemo
+FileProvider获取拍摄照片Demo的Server
